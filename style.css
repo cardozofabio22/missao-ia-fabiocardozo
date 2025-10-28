@@ -1,7 +1,7 @@
 :root {
-    --cor-fundo: #09f7f7ff;
+    --cor-fundo: rgb(247, 9, 21);
     --cor-principal: #0B0D20;
-    --cor-secundaria: #0925f7;
+    --cor-secundaria: #3d4ed46e;
     --cor-destaque: #2BDEFD;
     --cor-texto: #ffffff;
 }
